@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #332F29;
+	background: #FAFDD6;
+	font-size: 100%;
+}
+#contenedor {
+	width: 800px;
+	background: #FAFDD6;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+nav {
+	background-color: #E6BA95;
+	float: left;
+	width: 160px;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	color:#FAFDD6;
+	text-decoration: none;
+	font-family: 'Lato', sans-serif;
+}
+section {
+	background: #E4E9BE;
+	float: left;
+	margin: 0 0 0 25px;
+	width: 400px;
+}
+aside {
+	background: #E6BA95;
+	float: right;
+	width: 190px;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+	font-weight: bold;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+	font-weight: bold;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+}

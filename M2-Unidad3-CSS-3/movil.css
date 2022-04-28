@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	color: #332F29;
+	background: #FAFDD6;
+	font-size: 100%;
+}
+
+.contenedor {
+	background-color: #FAFDD6;
+	width: 100%;
+	margin-right:auto;
+	margin-left:auto;
+	overflow: hidden;
+}
+
+nav {
+	background-color: #E6BA95;
+	border-radius: 10px;
+	float: none;
+	width: 100%;
+	margin: 0%;
+} 
+
+nav ul {
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	width: 33%;
+}
+
+nav ul li a {
+	color:#FAFDD6;
+	text-decoration: none;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+	font-size: 1.2rem;
+	cursor: pointer;
+	display: block;
+}
+
+section {
+	background: #F1F2C0;
+	float: none;
+	width: 100%;
+	margin: 0%;
+	padding: 2%;
+	border-radius: 10px;
+}
+
+aside {
+	background: #CCC59E;
+	float: none;
+	width: 100%;
+	margin: 0%;
+	padding: 2%;
+	border-radius: 10px;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+	font-weight: bold;
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	color: #332F29;
+	font-size: 1rem;
+}
