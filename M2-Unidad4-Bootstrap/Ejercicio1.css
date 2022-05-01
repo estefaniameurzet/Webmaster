@@ -1,0 +1,60 @@
+/*.container-fluid {
+    background-color: #17202A;
+}*/
+body {
+    background-color: #17202a;
+}
+
+nav {
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#17202a+0,2c3251+100 */
+    background: #17202a;
+    /* Old browsers */
+    background: -moz-linear-gradient(left, #17202a 0%, #2c3251 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #17202a 0%, #2c3251 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #17202a 0%, #2c3251 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#17202a', endColorstr='#2c3251', GradientType=1);
+    /* IE6-9 */
+}
+
+.row {
+    margin: 2%;
+}
+
+.card {
+    border: #17202A;
+}
+
+.card-body {
+    background-color: #2C3E50;
+    color: aliceblue;
+    padding: 5%;
+}
+
+.col-8 {
+    background-color: #85929E;
+    color: aliceblue;
+    padding: 3%;
+}
+
+h4 {
+    color: #17202a;
+}
+
+.col-4 {
+    color: aliceblue;
+}
+
+.btn {
+    color: #17202a;
+    background-color: #85929E;
+    border-radius: 3px;
+    border: #85929E;
+}
+
+.btn:hover {
+    background-color: aliceblue;
+    color: #2c3251;
+}
